@@ -24,6 +24,8 @@ I've also created some other themes/plugins to complement this theme, you can fi
 
 [hyperterm-material-darker](https://github.com/clnt/hyperterm-material-darker) - fork of the popular Hyper Material theme made a little darker!
 
+[jetbrains-overflow-rainglow-darker](https://github.com/clnt/jetbrains-overflow-rainglow-darker) - Slightly modified version of the Overflow theme by [rainglow](https://rainglow.io) to suit this theme.
+
 ## What does it all look like?
 
 <p align="center">
