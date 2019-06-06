@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>jetbrains-material-darker-orange</id>
+  <editorColorsScheme>Material Darker Orange</editorColorsScheme>
+  <dark>true</dark>
+  <name>Material Darker Orange</name>
+  <colors>
+    <color id="background" value="212121ff"/>
+    <color id="foreground" value="b0bec5ff"/>
+    <color id="text" value="ff5523ff"/>
+    <color id="highlight" value="3f3f3fff"/>
+    <color id="selectionBackground" value="262626ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2a2a2aff"/>
+    <color id="secondaryBackground" value="292929ff"/>
+    <color id="disabled" value="474747ff"/>
+    <color id="contrast" value="1a1a1aff"/>
+    <color id="tableSelected" value="323232ff"/>
+    <color id="secondBorder" value="292929ff"/>
+    <color id="treeSelection" value="323232c0"/>
+    <color id="notifications" value="1a1a1aff"/>
+    <color id="accent" value="ff4d20ff"/>
+    <color id="excluded" value="323232ff"/>
+  </colors>
+  <themeId>jetbrains-material-darker-orange</themeId>
+</mtTheme>
